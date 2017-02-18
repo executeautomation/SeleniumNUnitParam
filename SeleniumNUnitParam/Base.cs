@@ -2,6 +2,8 @@
 
 namespace SeleniumNUnitParam
 {
+
+    //Base class
     public class Base
     {
 
